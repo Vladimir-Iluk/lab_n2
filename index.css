@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.greenLine {
+    border-bottom: 5px solid green;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.initial {
+    text-align: end;
+    margin-right: 10px;
+}
+h1 {
+    text-align: center;
+}
+.imageCats {
+    display: flex;
+    justify-content: center;
+}
+.list {
+    display: flex;
+    justify-content: center;
+}
+.headerH1 {
+    text-align: center;
+}
+.blueLine {
+    border-bottom: 3px solid blue;
+    margin: 20px auto 10px auto;
+    width: 60%;
+}
+.h1Asortiment {
+    text-align: center;   
+}
+.orangeLine {
+    
+    border-bottom: 2px solid orange;
+    margin: 20px auto 10px auto;
+    width: 70%;
+}
+.ulList {
+    text-align: left;
+}
+.contact {
+    text-align: center;
+}
+.ContactH1 {
+    text-align: center;   
+}
